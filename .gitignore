@@ -1,5 +1,7 @@
 *.npy
-
+data/*
+checkpoints/*
+*.h5
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template

@@ -46,9 +46,9 @@ Images and target images are stored into HDF5 files. This file format is used to
 
 ### References
 
-[1]: Yann LeCun, Yoshua Bengio & Geoffrey Hinton. _Deep Learning_. 2015.
-[2]: Joseph Paul Cohen et al. _Count-ception: Counting by Convolutional Redundant Counting_. Arxiv : 1703.08710. 2017
-[3]: François Chollet. _Keras_. https://github.com/keras-team/keras.
-[4]: Frederic Maussang. _Introduction to Teledetection_. IMT Atlantique. 2017.
-[5]: Christian Szegedyetal. _Going Deeper with Convolutions_. CVPR 2015.
-[6]: J. Long et al. _Fully convolutional networks for semantic segmentation_. CVPR 2015.  
+- [1]: Yann LeCun, Yoshua Bengio & Geoffrey Hinton. _Deep Learning_. 2015.
+- [2]: Joseph Paul Cohen et al. _Count-ception: Counting by Convolutional Redundant Counting_. Arxiv : 1703.08710. 2017
+- [3]: François Chollet. _Keras_. https://github.com/keras-team/keras.
+- [4]: Frederic Maussang. _Introduction to Teledetection_. IMT Atlantique. 2017.
+- [5]: Christian Szegedyetal. _Going Deeper with Convolutions_. CVPR 2015.
+- [6]: J. Long et al. _Fully convolutional networks for semantic segmentation_. CVPR 2015.  
